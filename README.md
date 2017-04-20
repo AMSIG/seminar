@@ -4,7 +4,12 @@
 [#AkitaMath](https://twitter.com/hashtag/AkitaMath)
 
 ## 2017
+* April 26, 17:45, Akita University
 
+  Speaker: Attila Egri-Nagy, AIU, Title: **Hierarchical decompositions of finite automata - computational Krohn-Rhodes theory**
+  
+  Abstract: To understand complex structures we often decompose them into simple(r) building blocks and analyze how the pieces fit together. This talk will show how this very general method can be applied to finite automata (transformation semigroups). It means that we can use an algebraic tool to 'understand' any system amenable to a computational description. [SgpDec computer algebra package for KRT](http://gap-packages.github.io/sgpdec/)
+  
 ## 2016
 
 * Dec 6, 17:30, Akita University,
