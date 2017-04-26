@@ -4,7 +4,7 @@
 [#AkitaMath](https://twitter.com/hashtag/AkitaMath)
 
 ## 2017
-* April 26, 17:45, Akita University
+* April 26, 17:45, Akita University,  Engineering building 7, Room 209 on the second floor.
 
   Speaker: Attila Egri-Nagy, AIU, Title: **Hierarchical decompositions of finite automata - computational Krohn-Rhodes theory**
   
