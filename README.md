@@ -4,6 +4,12 @@
 [#AkitaMath](https://twitter.com/hashtag/AkitaMath)
 
 ## 2017
+* May 17, 17:45, Akita University,  Engineering building 7, Room 209 on the second floor.
+
+  Speaker: Szilárd Zsolt Fazekas, AU, Title: **Repetitions in strings**
+  
+  Abstract: Repetitions in character sequences are a very important topic in pattern matching and compression. The more repetitive a string is, the slower the pattern matching algorithms can process it, but the more compressible it is. Given their fundamental importance for string algorithms, a lot of effort has been dedicated to bound their number in given sequences. We will look at some of the most studied types of repetitions, runs and distinct repetitions, and the methods used to provide said bounds. 
+
 * April 26, 17:45, Akita University,  Engineering building 7, Room 209 on the second floor.
 
   Speaker: Attila Egri-Nagy, AIU, Title: **Hierarchical decompositions of finite automata - computational Krohn-Rhodes theory**
